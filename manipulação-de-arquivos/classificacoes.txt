@@ -1,0 +1,5 @@
+João, maior de idade
+Maria, maior de idade
+Pedro, maior de idade
+Felipe, menor de idade
+Antonio, entrando na maior idade

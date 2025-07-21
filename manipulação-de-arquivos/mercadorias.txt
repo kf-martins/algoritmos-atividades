@@ -1,0 +1,4 @@
+101, Arroz, 60
+102, Feijão, 30
+103, Macarrão, 0
+104, Miojo, 10
